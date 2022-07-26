@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gabriela Pardo </h1>
-<h3 align="center">Me gusta cuidar el planeta y así mismo sus energías 🌎</h3>
+<h3 align="center">Me gusta cuidar el planeta y así mismo sus energías   🌎</h3>
 
 - 🔭 Actualmente estoy estudiando **Ingeniería en energías**
 - 📫 Puedes escribirme por acá **gabrielapardo242@gmail.com**
